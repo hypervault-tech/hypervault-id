@@ -1,6 +1,6 @@
 const program = require('commander');
 const package = require("./package.json");
-const { BusinessNetworkDefinition, CertificateUtil, IdCard } = require('composer-common');
+const { IdCard } = require('composer-common');
 const fs = require("fs");
 const path = require("path");
 const util = require("util");
