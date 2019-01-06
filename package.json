@@ -1,0 +1,20 @@
+{
+  "name": "hypervault-id",
+  "version": "0.0.1",
+  "description": "",
+  "main": "hypervault-id.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixiii/hypervault-id.git"
+  },
+  "author": "lixiii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lixiii/hypervault-id/issues"
+  },
+  "homepage": "https://github.com/lixiii/hypervault-id#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "composer-common": "^0.20.5"
+  }
+}
