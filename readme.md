@@ -19,7 +19,7 @@ Simply import it into your nodejs scripts.
 
 ### Example: 
 
-```nodejs
+```javascript
 
 const readCard = require("./readCard");
 
