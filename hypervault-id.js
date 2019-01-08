@@ -23,5 +23,5 @@ program.command("extract <card>")
     console.log(`Extracted credentials and meta data for ${username}`);
     console.log(`To get the public key, run the openssl command: \n$ openssl x509 -in ${username}.cert -pubkey -noout > ${username}.pub`)
   });
-  
+   
 program.parse(process.argv);
