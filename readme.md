@@ -31,3 +31,7 @@ async function main() {
 main();
 
 ```
+
+### Cards
+
+The `cards` folder contains sample network credentials to the HyperVault network. The card named `resourceServer.card` is the most up-to-date card to be used for HyperVault resource servers. 
